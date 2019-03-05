@@ -1,0 +1,15 @@
+{
+    "name": "cheran/rolespermissions",
+    "description": "This is roles and permissions package using spatie package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cheran",
+            "email": "cheran15061992@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
