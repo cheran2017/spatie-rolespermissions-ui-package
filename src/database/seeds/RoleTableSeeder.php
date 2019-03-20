@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Models\Role;
-use App\Models\Permission;
+use Cheran\RolesPermissions\Models\Role;
+use Cheran\RolesPermissions\Models\Permission;
 class RoleTableSeeder extends Seeder
 {
     /**
