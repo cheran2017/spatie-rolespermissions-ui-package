@@ -11,5 +11,18 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "php" : ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cheran\\RolesPermissions\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cheran\\RolesPermissions\\RolesPermissionsServiceProvider"
+            ]
+        }
     }
 }
